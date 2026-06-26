@@ -1,6 +1,6 @@
 # Simple Banking Application
 
-A console-based Java banking system built Java (Maven).
+A console-based Java banking system built with Java (Maven).
 
 ## Overview
 
