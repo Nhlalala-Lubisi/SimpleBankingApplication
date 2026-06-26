@@ -53,4 +53,4 @@ java -jar target/SimpleBankingApplication-1.0-SNAPSHOT.jar
 
 ## Author
 
-Nhlalala - Advanced Diploma in Information Technology (NQF 7), VUT 2026
+Nhlalala - Advanced Diploma in Information Technology (NQF level 7), VUT 2026
