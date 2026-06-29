@@ -11,14 +11,11 @@ Users can create accounts, deposit funds, withdraw funds, and check balances thr
 ```
 SimpleBankingApplication/
 ├── src/
-│   ├── main/java/com/nhlaks/banking/
+│   ├── main/java/com/nhlaks/
 │   │   ├── BankAccount.java          # Domain model
-│   │   ├── BankingService.java       # Service layer (multi-account management)
-│   │   ├── InsufficientFundsException.java
 │   │   └── Main.java                 # Console UI entry point
-│   └── test/java/com/nhlaks/banking/
+│   └── test/java/com/nhlaks/
 │       ├── BankAccountTest.java      # 13 unit tests
-│       └── BankingServiceTest.java   # 10 unit tests
 └── pom.xml
 ```
 
