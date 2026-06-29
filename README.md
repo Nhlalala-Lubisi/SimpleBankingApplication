@@ -46,7 +46,7 @@ java -jar target/SimpleBankingApplication-1.0-SNAPSHOT.jar
 - Deposit and withdraw with input validation
 - `InsufficientFundsException` on overdraft attempts
 - Two-decimal-place balance precision via `BigDecimal`
-- 23 JUnit 5 tests covering happy paths and edge cases
+- 6 JUnit 5 tests covering happy paths and edge cases
 
 ## Author
 
