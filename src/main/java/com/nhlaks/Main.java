@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  * Entry point for the Simple Banking Application.
- * Drives a console-based menu that lets users create accounts, deposit, withdraw, and check balances interactively.
+ * A console-based menu that lets users create accounts, deposit, withdraw, and check balances interactively.
  * @author Nhlalala
  * @version 1.0
  */
@@ -108,10 +108,7 @@ public class Main {
         }
     }
 
-    // -----------------------------------------------------------------------
     // Helpers
-    // -----------------------------------------------------------------------
-
     private static void printMenu() {
         System.out.println("----------------------------------------------");
         System.out.println(" 1. Create Account");
