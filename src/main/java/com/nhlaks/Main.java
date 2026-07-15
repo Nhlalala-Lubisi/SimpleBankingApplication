@@ -5,10 +5,7 @@ import java.util.Scanner;
 
 /**
  * Entry point for the Simple Banking Application.
- *
- * <p>Drives a console-based menu that lets users create accounts, deposit,
- * withdraw, and check balances interactively.</p>
- *
+ * Drives a console-based menu that lets users create accounts, deposit, withdraw, and check balances interactively.
  * @author Nhlalala
  * @version 1.0
  */
@@ -19,7 +16,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("==============================================");
-        System.out.println("   Welcome to NhlaBank – Simple Banking App  ");
+        System.out.println("   Welcome to NhlaksBank – Simple Banking App  ");
         System.out.println("==============================================");
 
         boolean running = true;
@@ -42,10 +39,7 @@ public class Main {
         scanner.close();
     }
 
-    // -----------------------------------------------------------------------
     // Menu handlers
-    // -----------------------------------------------------------------------
-
     private static void handleCreateAccount() {
         System.out.println("\n--- Create Account ---");
         System.out.print("Enter account number : ");
